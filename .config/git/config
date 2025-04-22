@@ -1,0 +1,8 @@
+[user]
+	name  = biscuitbicky
+	email = 2166318849@qq.com
+[core]
+	excludesfile = /Users/biscuit/.config/git/.gitignore_global
+	quotepath = false
+[init]
+	defaultBranch = main

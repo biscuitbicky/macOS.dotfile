@@ -1,0 +1,7 @@
+# ignore .DS_Store file in all git repository on Mac
+# path: ~/.config/git/.gitignore_global
+**/.DS_Store
+
+# then enter the command below:
+# git config --global core.excludesfile ~/.gitignore_global
+
