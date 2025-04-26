@@ -139,7 +139,8 @@ keymap = [
 	{ on = ["g", "m"], run = "cd ~/Movies",      desc = "go to movies" },
 	{ on = ["g", "M"], run = "cd ~/Music",       desc = "go to musics" },
 	{ on = ["g", "w"], run = "cd ~/workspace",   desc = "go to workspace" },
-	{ on = ["g", "f"], run = "follow",           desc = "follow hovered symlink" },
+	{ on = ["g", "f"], run = "cd ~/Documents",   desc = "go to documents" },
+	{ on = ["g", "F"], run = "follow",           desc = "follow hovered symlink" },
 
 	{ on = ["g", "<Space>"], run = "cd --interactive", desc = "jump interactively" },
 
